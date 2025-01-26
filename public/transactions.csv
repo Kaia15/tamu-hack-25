@@ -1,0 +1,233 @@
+Date,Activity Description,Amount,Category
+2025-01-01,Picked up shoes at Foot Locker,50.39,Merchandise
+2025-01-01,Filled gas at Shell Gas Station,84.64,Travel
+2025-01-01,Coffee at Starbucks,12.7,Dining
+2025-01-02,Pizza night at Domino's Pizza,6.81,Dining
+2025-01-02,Dinner at Ichiban Sushi Restaurant,20.83,Dining
+2025-01-02,Bought a train ticket from Amtrak,63.91,Travel
+2025-01-03,Bought groceries at Walmart,24.57,Grocery
+2025-01-03,Bought essentials at Trader Joe's,22.46,Grocery
+2025-01-03,Watched a movie at AMC Theatres,22.32,Entertainment
+2025-01-04,Pizza night at Domino's Pizza,13.45,Dining
+2025-01-04,Bought a train ticket from Amtrak,75.46,Travel
+2025-01-04,Purchased a backpack from Target,18.88,Merchandise
+2025-01-05,Picked up produce from H-E-B,23.79,Grocery
+2025-01-05,Renewed Netflix subscription,10.31,Entertainment
+2025-01-05,Visited Whole Foods Market,41.8,Grocery
+2025-01-06,Dinner at Ichiban Sushi Restaurant,19.71,Dining
+2025-01-06,Ordered electronics on Amazon,48.64,Merchandise
+2025-01-06,Bought essentials at Trader Joe's,33.23,Grocery
+2025-01-07,Bought concert tickets for Taylor Swift,9.17,Entertainment
+2025-01-07,Dinner at Ichiban Sushi Restaurant,34.76,Dining
+2025-01-07,Filled gas at Shell Gas Station,36.27,Travel
+2025-01-08,Purchased a backpack from Target,7.08,Merchandise
+2025-01-08,Bought concert tickets for Taylor Swift,20.07,Entertainment
+2025-01-08,Picked up produce from H-E-B,21.54,Grocery
+2025-01-09,Coffee at Starbucks,13.54,Dining
+2025-01-09,Bought a jacket from Macy's,36.38,Merchandise
+2025-01-09,Ordered electronics on Amazon,17.83,Merchandise
+2025-01-10,Ordered electronics on Amazon,39.16,Merchandise
+2025-01-10,Filled gas at Shell Gas Station,40.68,Travel
+2025-01-10,Dinner at Ichiban Sushi Restaurant,6.95,Dining
+2025-01-11,Dinner at Ichiban Sushi Restaurant,9.29,Dining
+2025-01-11,Booked a flight with Delta Airlines,35.5,Travel
+2025-01-11,Filled gas at Shell Gas Station,67.91,Travel
+2025-01-12,Pizza night at Domino's Pizza,15.31,Dining
+2025-01-12,Coffee at Starbucks,16.97,Dining
+2025-01-12,Went to SkyZone Trampoline Park,26.75,Entertainment
+2025-01-13,Renewed Netflix subscription,21.72,Entertainment
+2025-01-13,Bought groceries at Walmart,21.52,Grocery
+2025-01-13,Paid for an Uber ride to downtown,65.55,Travel
+2025-01-14,Lunch at Olive Garden,6.52,Dining
+2025-01-14,Bought a train ticket from Amtrak,17.6,Travel
+2025-01-14,Bought essentials at Trader Joe's,38.14,Grocery
+2025-01-15,Renewed Netflix subscription,15.22,Entertainment
+2025-01-15,Watched a movie at AMC Theatres,13.66,Entertainment
+2025-01-15,Paid for an Uber ride to downtown,38.38,Travel
+2025-01-16,Paid for an Uber ride to downtown,56.65,Travel
+2025-01-16,Paid for an Uber ride to downtown,26.68,Travel
+2025-01-16,Bought a jacket from Macy's,26.24,Merchandise
+2025-01-17,Bought groceries at Walmart,13.46,Grocery
+2025-01-17,Pizza night at Domino's Pizza,4.98,Dining
+2025-01-17,Ordered electronics on Amazon,55.86,Merchandise
+2025-01-18,Dinner at Ichiban Sushi Restaurant,20.24,Dining
+2025-01-18,Bought groceries at Walmart,31.84,Grocery
+2025-01-18,Dinner at Ichiban Sushi Restaurant,6.82,Dining
+2025-01-19,Went to SkyZone Trampoline Park,5.63,Entertainment
+2025-01-19,Visited Whole Foods Market,42.14,Grocery
+2025-01-19,Ordered electronics on Amazon,120.86,Merchandise
+2025-01-20,Picked up produce from H-E-B,26.9,Grocery
+2025-01-20,Picked up produce from H-E-B,40.34,Grocery
+2025-01-20,Renewed Netflix subscription,21.32,Entertainment
+2025-01-21,Purchased a backpack from Target,48.02,Merchandise
+2024-11-01,Picked up produce from H-E-B,48.21,Grocery
+2024-11-01,Filled gas at Shell Gas Station,28.97,Travel
+2024-11-01,Paid for an Uber ride to downtown,18.53,Travel
+2024-11-02,Lunch at Olive Garden,12.6,Dining
+2024-11-02,Coffee at Starbucks,8.27,Dining
+2024-11-02,Paid for an Uber ride to downtown,50.92,Travel
+2024-11-03,Pizza night at Domino's Pizza,24.91,Dining
+2024-11-03,Booked a flight with Delta Airlines,43.72,Travel
+2024-11-03,Picked up shoes at Foot Locker,6.33,Merchandise
+2024-11-04,Booked a flight with Delta Airlines,73.45,Travel
+2024-11-04,Pizza night at Domino's Pizza,21.9,Dining
+2024-11-04,Picked up produce from H-E-B,24.15,Grocery
+2024-11-05,Visited Whole Foods Market,19.21,Grocery
+2024-11-05,Purchased a backpack from Target,20.8,Merchandise
+2024-11-05,Bought essentials at Trader Joe's,41.96,Grocery
+2024-11-06,Went to SkyZone Trampoline Park,10.7,Entertainment
+2024-11-06,Watched a movie at AMC Theatres,19.05,Entertainment
+2024-11-06,Lunch at Olive Garden,11.1,Dining
+2024-11-07,Filled gas at Shell Gas Station,93.34,Travel
+2024-11-07,Booked a flight with Delta Airlines,20.27,Travel
+2024-11-07,Coffee at Starbucks,23.44,Dining
+2024-11-08,Dinner at Ichiban Sushi Restaurant,21.85,Dining
+2024-11-08,Visited Whole Foods Market,15.78,Grocery
+2024-11-08,Ordered electronics on Amazon,23.05,Merchandise
+2024-11-09,Pizza night at Domino's Pizza,19.26,Dining
+2024-11-09,Ordered electronics on Amazon,47.51,Merchandise
+2024-11-09,Picked up shoes at Foot Locker,6.78,Merchandise
+2024-11-10,Coffee at Starbucks,23.15,Dining
+2024-11-10,Ordered electronics on Amazon,48.12,Merchandise
+2024-11-10,Purchased a backpack from Target,34.44,Merchandise
+2024-11-11,Renewed Netflix subscription,21.72,Entertainment
+2024-11-11,Purchased a backpack from Target,9.29,Merchandise
+2024-11-11,Bought groceries at Walmart,9.19,Grocery
+2024-11-12,Ordered electronics on Amazon,26.44,Merchandise
+2024-11-12,Dinner at Ichiban Sushi Restaurant,18.91,Dining
+2024-11-12,Booked a flight with Delta Airlines,8.76,Travel
+2024-11-13,Watched a movie at AMC Theatres,15.76,Entertainment
+2024-11-13,Pizza night at Domino's Pizza,15.37,Dining
+2024-11-13,Ordered electronics on Amazon,38.73,Merchandise
+2024-11-14,Visited Whole Foods Market,26.9,Grocery
+2024-11-14,Visited Whole Foods Market,27.48,Grocery
+2024-11-14,Booked a flight with Delta Airlines,62.25,Travel
+2024-11-15,Lunch at Olive Garden,15.41,Dining
+2024-11-15,Picked up produce from H-E-B,9.66,Grocery
+2024-11-15,Filled gas at Shell Gas Station,31.8,Travel
+2024-11-16,Went to SkyZone Trampoline Park,24.04,Entertainment
+2024-11-16,Coffee at Starbucks,12.82,Dining
+2024-11-16,Renewed Netflix subscription,4.75,Entertainment
+2024-11-17,Visited Whole Foods Market,11.91,Grocery
+2024-11-17,Went to SkyZone Trampoline Park,31.62,Entertainment
+2024-11-17,Pizza night at Domino's Pizza,23.38,Dining
+2024-11-18,Lunch at Olive Garden,18.12,Dining
+2024-11-18,Went to SkyZone Trampoline Park,29.5,Entertainment
+2024-11-18,Bought concert tickets for Taylor Swift,14.8,Entertainment
+2024-11-19,Bought a jacket from Macy's,7.34,Merchandise
+2024-11-19,Paid for an Uber ride to downtown,49.32,Travel
+2024-11-19,Watched a movie at AMC Theatres,12.31,Entertainment
+2024-11-20,Bought a train ticket from Amtrak,29.0,Travel
+2024-11-20,Booked a flight with Delta Airlines,44.45,Travel
+2024-11-20,Ordered electronics on Amazon,31.82,Merchandise
+2024-11-21,Renewed Netflix subscription,32.42,Entertainment
+2024-11-21,Purchased a backpack from Target,24.52,Merchandise
+2024-11-21,Visited Whole Foods Market,7.25,Grocery
+2024-11-22,Filled gas at Shell Gas Station,30.22,Travel
+2024-11-22,Dinner at Ichiban Sushi Restaurant,13.85,Dining
+2024-11-22,Bought concert tickets for Taylor Swift,13.22,Entertainment
+2024-11-23,Black Friday Shoping on Macy's online,120.43,Entertainment
+2024-11-23,Black Friday Shoping on Bestbuy's online,720.43,Entertainment
+2024-11-23,Filled gas at Shell Gas Station,15.08,Travel
+2024-11-24,Renewed Netflix subscription,12.66,Entertainment
+2024-11-24,Coffee at Starbucks,20.44,Dining
+2024-11-24,Paid for an Uber ride to downtown,14.92,Travel
+2024-11-25,Bought a jacket from Macy's,52.13,Merchandise
+2024-11-25,Dinner at Ichiban Sushi Restaurant,9.89,Dining
+2024-11-25,Bought a jacket from Macy's,18.6,Merchandise
+2024-11-26,Bought a jacket from Macy's,17.79,Merchandise
+2024-11-26,Ordered electronics on Amazon,44.52,Merchandise
+2024-11-26,Paid for an Uber ride to downtown,86.11,Travel
+2024-11-27,Ordered electronics on Amazon,15.85,Merchandise
+2024-11-27,Bought groceries at Walmart,48.12,Grocery
+2024-11-27,Bought groceries at Walmart,30.68,Grocery
+2024-11-28,Visited Whole Foods Market,46.56,Grocery
+2024-11-28,Pizza night at Domino's Pizza,12.97,Dining
+2024-11-28,Picked up shoes at Foot Locker,35.87,Merchandise
+2024-11-29,Renewed Netflix subscription,32.19,Entertainment
+2024-11-29,Paid for an Uber ride to downtown,84.02,Travel
+2024-11-29,Ordered electronics on Amazon,29.09,Merchandise
+2024-11-30,Dinner at Ichiban Sushi Restaurant,6.31,Dining
+2024-11-30,Visited Whole Foods Market,40.93,Grocery
+2024-11-30,Bought a train ticket from Amtrak,57.56,Travel
+2024-12-01,Went to SkyZone Trampoline Park,33.55,Entertainment
+2024-12-01,Bought essentials at Trader Joe's,43.93,Grocery
+2024-12-01,Bought concert tickets for Taylor Swift,12.14,Entertainment
+2024-12-02,Paid for an Uber ride to downtown,72.44,Travel
+2024-12-02,Pizza night at Domino's Pizza,24.96,Dining
+2024-12-02,Bought groceries at Walmart,44.7,Grocery
+2024-12-03,Went to SkyZone Trampoline Park,4.41,Entertainment
+2024-12-03,Watched a movie at AMC Theatres,38.88,Entertainment
+2024-12-03,Visited Whole Foods Market,50.5,Grocery
+2024-12-04,Bought concert tickets for Taylor Swift,36.5,Entertainment
+2024-12-04,Went to SkyZone Trampoline Park,29.24,Entertainment
+2024-12-04,Paid for an Uber ride to downtown,24.64,Travel
+2024-12-05,Bought a train ticket from Amtrak,40.34,Travel
+2024-12-05,Picked up produce from H-E-B,42.29,Grocery
+2024-12-05,Renewed Netflix subscription,49.92,Entertainment
+2024-12-06,Picked up produce from H-E-B,38.17,Grocery
+2024-12-06,Picked up shoes at Foot Locker,18.14,Merchandise
+2024-12-01,Entertainment purchase,53.98,Travel
+2024-12-01,Dining purchase,27.86,Travel
+2024-12-02,Travel purchase,29.16,Dining
+2024-12-02,Entertainment purchase,48.15,Merchandise
+2024-12-03,Travel purchase,28.37,Merchandise
+2024-12-04,Travel purchase,7.07,Entertainment
+2024-12-04,Travel purchase,25.3,Entertainment
+2024-12-05,Dining purchase,28.96,Entertainment
+2024-12-05,Dining purchase,37.92,Entertainment
+2024-12-05,Merchandise purchase,7.87,Travel
+2024-12-06,Grocery purchase,46.0,Dining
+2024-12-06,Travel purchase,50.12,Travel
+2024-12-06,Grocery purchase,23.8,Grocery
+2024-12-07,Merchandise purchase,12.45,Grocery
+2024-12-07,Merchandise purchase,57.99,Merchandise
+2024-12-07,Merchandise purchase,41.61,Merchandise
+2024-12-08,Grocery purchase,30.26,Entertainment
+2024-12-09,Merchandise purchase,49.01,Grocery
+2024-12-09,Grocery purchase,53.2,Merchandise
+2024-12-09,Travel purchase,13.24,Travel
+2024-12-10,Travel purchase,41.39,Travel
+2024-12-11,Grocery purchase,51.07,Grocery
+2024-12-11,Grocery purchase,24.15,Merchandise
+2024-12-12,Hennessy 1738 Accord Royal,293.11,Dining
+2024-12-12,Grocery purchase,26.3,Dining
+2024-12-12,Dining purchase,33.62,Travel
+2024-12-13,Entertainment purchase,37.97,Entertainment
+2024-12-14,Grocery purchase,32.04,Merchandise
+2024-12-15,Dining purchase,38.61,Grocery
+2024-12-15,Grocery purchase,6.11,Grocery
+2024-12-16,Dining purchase,4.43,Grocery
+2024-12-16,Merchandise purchase,4.96,Grocery
+2024-12-17,Merchandise purchase,54.99,Entertainment
+2024-12-17,Grocery purchase,20.59,Entertainment
+2024-12-18,Merchandise purchase,23.02,Grocery
+2024-12-19,Dining purchase,27.1,Travel
+2024-12-19,Dining Brazillian Steakhouse,160.14,Dining
+2024-12-20,Grocery purchase,40.89,Entertainment
+2024-12-20,Grocery purchase,11.82,Dining
+2024-12-21,Entertainment purchase,55.4,Dining
+2024-12-21,Travel purchase,17.41,Entertainment
+2024-12-22,Grocery purchase,52.59,Dining
+2024-12-22,Travel purchase,15.48,Entertainment
+2024-12-23,Dining purchase,9.18,Grocery
+2024-12-23,Merchandise purchase,44.83,Merchandise
+2024-12-23,Merchandise purchase,7.74,Travel
+2024-12-24,Grocery purchase,5.92,Dining
+2024-12-24,Entertainment purchase,12.39,Grocery
+2024-12-24,Entertainment purchase,22.21,Entertainment
+2024-12-25,Travel purchase,31.98,Travel
+2024-12-25,Travel purchase,37.85,Entertainment
+2024-12-25,Merchandise purchase,35.26,Travel
+2024-12-26,Travel purchase,53.76,Entertainment
+2024-12-26,Entertainment purchase,26.9,Travel
+2024-12-26,Grocery purchase,19.36,Merchandise
+2024-12-27,Merchandise purchase,30.54,Travel
+2024-12-27,Vietnamese Restaurants,360.57,Dining
+2024-12-27,Dining purchase,39.72,Travel
+2024-12-28,Travel purchase,38.04,Travel
+2024-12-29,Travel purchase,52.29,Dining
+2024-12-30,Merchandise purchase,4.29,Merchandise
+2024-12-30,Dining purchase,11.25,Grocery
+2024-12-31,Entertainment purchase,8.96,Travel
+2024-12-31,Travel purchase,28.11,Merchandise
